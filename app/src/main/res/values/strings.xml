@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Plate Calculator</string>
+    <string name="edit_weight">Enter total weight</string>
+    <string name="button_calc">Calculate</string>
+    <string name="zero">0</string>
+    <string name="fortyFive">45 :</string>
+    <string name="thirtyFive">35 :</string>
+    <string name="twentyFive">25 :</string>
+    <string name="ten">10 :</string>
+    <string name="five">5 :  </string>
+    <string name="twoPointFive">2.5 :</string>
+</resources>
